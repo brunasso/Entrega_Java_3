@@ -1,6 +1,8 @@
-package com.SmartPhones;
+package SmartPhone.herencia;
 
-public class SmartPhone extends SmartDevice{
+import SmartPhone.clases.SmartDevice;
+
+public class SmartPhone extends SmartDevice {
     int screenNits;
     int voltageBattery;
 

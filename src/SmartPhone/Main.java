@@ -1,4 +1,7 @@
-package com.SmartPhones;
+package SmartPhone;
+
+import SmartPhone.herencia.SmartPhone;
+import SmartPhone.herencia.SmartWatch;
 
 public class Main {
     public static void main(String[] args) {

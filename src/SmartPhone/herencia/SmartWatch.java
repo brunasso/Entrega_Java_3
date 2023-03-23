@@ -1,4 +1,7 @@
-package com.SmartPhones;
+package SmartPhone.herencia;
+
+import SmartPhone.clases.SmartDevice;
+
 public class SmartWatch extends SmartDevice {
     boolean waterResistant;
     String typeOfEnergy;

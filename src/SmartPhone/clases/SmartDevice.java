@@ -1,4 +1,4 @@
-package com.SmartPhones;
+package SmartPhone.clases;
 
 public class SmartDevice {
     int height;
